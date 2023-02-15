@@ -15,7 +15,7 @@ try:
     soma += n1
   else:
     media = soma/4
-    print('A média final entre as suas notas é de {}'.format(round(media,2)))
+    print('A média final entre as suas notas é de {}.'.format(round(media,2)))
     if media >= 7:
       print('Aprovado!')
     else:
@@ -32,7 +32,7 @@ except ValueError: #Se algum valor diferente do solicitado for inserido, o progr
     #if n1 > 10 or n1 < 0:
      # print('Você digitou uma nota inválida, digite uma nota entre 0 a 10.')
       #n -= 1
-     # continue
+     # break
   #  soma += n1
  # else:
   #  media = soma/4
