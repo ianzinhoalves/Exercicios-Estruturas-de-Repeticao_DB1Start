@@ -1,6 +1,6 @@
 #Aluno: Ian Alves Sousa
 #DB1 Start - Estruturas de Repetição
-#Exercício 6 - Faça um Programa que leia três números e mostre o maior e o menor deles.
+#Exercício 7 - Faça um Programa que leia três números e mostre o maior e o menor deles.
 
 
 x = 0
