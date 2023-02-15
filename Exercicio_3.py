@@ -40,5 +40,5 @@ except ValueError: #Se algum valor diferente do solicitado for inserido, o progr
    # if media >= 7:
    #   print('Aprovado!')
    # else:
-   #   print('Reprovado!')
+   #   print('Reprovado!') Final
   
