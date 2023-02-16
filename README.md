@@ -8,39 +8,38 @@ Assim, os repositórios com o nome DB1 Start irão mostrar o meu desenvolvimento
 
 # Estruturas de Repetição
 
-A primeira aula do segundo módulo do programa ensina uma tratativa teórica do que são as Estruturas Condicionais e como usar elas no Python. Assim, esse repositório mostra quais foram os exercícios propostos e a ordem dos mesmos.
+A primeira aula do segundo módulo do programa ensina uma tratativa teórica do que são as Estruturas de Repetição e como usar elas no Python. Assim, esse repositório mostra quais foram os exercícios propostos e a ordem dos mesmos.
 
 Além disso, no repositório tem alguns arquivos com o nome Ava, eles foram testes para a avaliação proposta no módulo, da qual eu PROVAVELMENTE não tenho mais acesso a questão.
 
 ## 🚀 Começando
 
-A ideia dos exercícios é a fixação do conteúdo sobre VARIÁVEIS no Phyton. Busquei realizá-los pensando em satisfazer a respostas para todas as entradas possíveis, afim de dificultar um pouco tais exercícios.
+A ideia dos exercícios é a fixação do conteúdo sobre VARIÁVEIS no Phyton. Busquei realizá-los pensando em satisfazer a respostas para todas as entradas possíveis, afim de dificultar um pouco tais exercícios. Sempre tentando dificultar um exercício que parece fácil, para me forçar a pesquisar algo e aprender mais. Alguns exercícios que faltavam enunciado, decidi não realizar.
 
 Os Exercícios propostos foram:
 
-1 - Faça um Programa que peça dois números e imprima o maior deles.
+1 - Faça um Programa que pergunte quanto você ganha por hora e o número de horas trabalhadas no mês. Calcule e mostre o total do seu salário no referido mês.
 
-2 - Faça um Programa que peça um valor e mostre na tela se o valor é positivo ou negativo.
+2 - Faça um Programa que peça dois números e imprima a soma.
 
-3 - Faça um Programa que verifique se uma letra digitada é "F" ou "M". Conforme a letra escrever: F - Feminino, M - Masculino, Sexo Inválido.
+3 - Faça um Programa que peça as 4 notas bimestrais e mostre a média.
 
-4 - Faça um Programa que verifique se uma letra digitada é vogal ou consoante.
+4 - Faça um Programa que peça 2 números inteiros e um número real. Calcule e mostre
 
-5 - Faça um Programa que leia três números e mostre o maior e o menor deles.
+5 - Faça um Programa que peça dois números e imprima o maior deles.
 
-6 - Faça um programa que pergunte o preço de três produtos e informe qual produto você deve comprar, sabendo que a decisão é sempre pelo mais barato.
+6 - Faça um Programa que leia três números e mostre o maior deles.
 
-7 - Faça um Programa que leia três números e mostre-os emo rdem decrescente.
+7 - Faça um Programa que leia três números e mostre o maior e o menor deles.
 
-8 - Faça um Programa que pergunte em que turno você estuda.
+8 - Faça um programa que pergunte o preço de três produtos e informe qual produto você deve comprar, sabendo que a decisão é sempre pelo mais barato.
 
-9 - As Organizações Tabajara resolveram dar um aumento de salário aos seus colaboradores e lhe contraram para desenvolver o programa que calculará os reajustes.
-
-10- Faça um programa para o cálculo de uma folha de pagamento.
+9 - Faça um Programa que leia três números e mostre-os em ordem decrescente.
 
 ## 🖇️ Colaborando
 
 Colabore com meu aprendizado! Se tiver algo que eu possa melhorar ou que você pode me ensinar, faço questão de querer aprender. Me mande links, novas ideias e como posso aprender mais e me desenvolver nessa área, estou sempre aberto a aprender!!!!
+Tais programas são funcionais, mas sei que preciso melhorar a minha lógica para ficar mais limpo o meu código. Me ajude com isso!
 
 ## ✒️ Autores
 
