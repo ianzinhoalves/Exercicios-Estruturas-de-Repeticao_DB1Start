@@ -14,7 +14,7 @@ Além disso, no repositório tem alguns arquivos com o nome Ava, eles foram test
 
 ## 🚀 Começando
 
-A ideia dos exercícios é a fixação do conteúdo sobre VARIÁVEIS no Phyton. Busquei realizá-los pensando em satisfazer a respostas para todas as entradas possíveis, afim de dificultar um pouco tais exercícios. Sempre tentando dificultar um exercício que parece fácil, para me forçar a pesquisar algo e aprender mais. Alguns exercícios que faltavam enunciado, decidi não realizar.
+A ideia dos exercícios é a fixação do conteúdo no Phyton. Busquei realizá-los pensando em satisfazer a respostas para todas as entradas possíveis, afim de dificultar um pouco tais exercícios. Sempre tentando dificultar um exercício que parece fácil, para me forçar a pesquisar algo e aprender mais. Alguns exercícios que faltavam enunciado, decidi não realizar.
 
 Os Exercícios propostos foram:
 
